@@ -82,6 +82,7 @@ Then add logic to `addExcitement` that places an exclamation point (!) after eve
 
 Your job is to read the following English statement and write the equivalent in JavaSript code to make it work.
 
+
 > If the current value of the [counter variable] can be evenly divided by 3 - using the JavaScript [remainder] operator - then add a single exclamation point (!) to the output.
 
     SEE ALSO: 
